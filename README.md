@@ -72,12 +72,7 @@ Muitas orientações indicam **cerca de seis meses**, ou antes se houver sujeira
 ## Tecnologias
 <img src="skills.svg" alt="HTML5, CSS3, JavaScript, Web Speech, Git e GitHub" height="64">
 
-## Contribuições
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/projetoaguasegura2026-ship-it/projetoaguasegura2026-ship-it/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/projetoaguasegura2026-ship-it/projetoaguasegura2026-ship-it/output/snake.svg">
-  <img alt="Cobrinha comendo os quadradinhos das contribuições" src="https://raw.githubusercontent.com/projetoaguasegura2026-ship-it/projetoaguasegura2026-ship-it/output/snake.svg">
-</picture>
+
 
 <img src="footer.svg" width="100%" alt="Cada gota conta.">
 
