@@ -80,3 +80,4 @@ Muitas orientações indicam **cerca de seis meses**, ou antes se houver sujeira
 </picture>
 
 <img src="footer.svg" width="100%" alt="Cada gota conta.">
+
