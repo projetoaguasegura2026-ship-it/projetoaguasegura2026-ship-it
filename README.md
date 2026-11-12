@@ -2,7 +2,7 @@
 
 <p align="center"><img src="badges.svg" alt="Maratona DevImpacto, Meio Ambiente, uso gratuito, EREM Abílio de Souza Barbosa" width="100%"></p>
 
-<p align="center"><a href="https://projetoaguasegura2026-ship-it.github.io/Agua-Segura"><img src="botao.svg" alt="Abrir o Água Segura" width="380"></a></p>
+<p align="center"><a href="https://aguasegura-six.vercel.app"><img src="botao.svg" alt="Abrir o Água Segura" width="380"></a></p>
 
 <table>
 <tr>
